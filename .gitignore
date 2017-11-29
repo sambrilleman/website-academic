@@ -1,3 +1,6 @@
+# Compiled webpages
+/public/
+
 # History files
 .Rhistory
 .Rapp.history
