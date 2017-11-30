@@ -36,4 +36,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student in biostatistics at the [School of Public Health and Preventive Medicine](https://www.monash.edu/medicine/sphpm) at Monash University in Melbourne, Australia. My PhD is entitled "Joint longitudinal and time-to-event models for applications in health research" and is being supervised by [Prof Rory Wolfe](https://www.monash.edu/medicine/sphpm/about/staff/academic/wolfe) (primary), [Dr Margarita Moreno-Betancur](https://www.mcri.edu.au/users/margarita-moreno-betancur), and [Dr Michael Crowther](https://www.mjcrowther.co.uk/).
+I am a PhD student in biostatistics at the [School of Public Health and Preventive Medicine](https://www.monash.edu/medicine/sphpm) at Monash University in Melbourne, Australia. I am also a member of the [Victorian Centre for Biostatistics (ViCBiostat)](http://www.vicbiostat.org.au/). 
+
+My PhD is entitled "Joint longitudinal and time-to-event models for applications in health research" and is being supervised by [Prof Rory Wolfe](https://www.monash.edu/medicine/sphpm/about/staff/academic/wolfe) (primary), [Dr Margarita Moreno-Betancur](https://www.mcri.edu.au/users/margarita-moreno-betancur), and [Dr Michael Crowther](https://www.mjcrowther.co.uk/). Prior to starting my PhD I had worked as both an academic and consultant biostatistician in a number of different roles; my full CV can be found [here](/files/brilleman_cv.pdf).

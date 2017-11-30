@@ -14,7 +14,8 @@ location = "Canberra, Australia"
 selected = false
 
 # Links (optional).
-url_slides = "slides/2016_contributed_ASC"
+url_pdf = "slides/2016_contributed_ASC"
+url_slides = "https://speakerdeck.com/sambrilleman/bayesian-joint-models-for-multiple-longitudinal-biomarkers-and-time-to-event-data-methods-and-software-development"
 
 # Does the content use math formatting?
 math = true

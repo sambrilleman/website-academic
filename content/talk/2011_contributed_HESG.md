@@ -15,7 +15,7 @@ location = "Bangor, Wales"
 selected = true
 
 # Links (optional).
-url_slides = "slides/2011_contributed_HESG"
+url_pdf = "slides/2011_contributed_HESG"
 
 # Does the content use math formatting?
 math = true

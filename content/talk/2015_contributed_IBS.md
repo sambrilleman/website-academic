@@ -14,7 +14,8 @@ location = "Hobart, Australia"
 selected = true
 
 # Links (optional).
-url_slides = "slides/2015_contributed_IBS"
+url_pdf = "slides/2015_contributed_IBS"
+url_slides = "https://speakerdeck.com/sambrilleman/joint-longitudinal-and-survival-models-for-investigating-the-association-between-natural-disasters-and-disability-whilst-accounting-for-non-random-dropout-due-to-death"
 
 # Does the content use math formatting?
 math = true
