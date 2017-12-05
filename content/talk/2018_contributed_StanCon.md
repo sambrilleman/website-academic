@@ -1,5 +1,5 @@
 +++
-date = 2018-01-10T00:00:00  # Schedule page publish date.
+date = 2017-12-04T00:00:00  # Schedule page publish date.
 
 title = "Joint longitudinal and time-to-event models via Stan"
 
