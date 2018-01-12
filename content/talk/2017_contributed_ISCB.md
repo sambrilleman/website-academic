@@ -15,7 +15,7 @@ location = "Vigo, Spain"
 selected = true
 
 # Links (optional).
-url_pdf = "/slides/2017_contributed_ISCB"
+url_pdf = "slides/2017_contributed_ISCB.pdf"
 url_slides = "https://speakerdeck.com/sambrilleman/bayesian-joint-models-for-multiple-longitudinal-biomarkers-and-a-time-to-event-outcome-software-development-and-a-melanoma-case-study"
 
 # Does the content use math formatting?
