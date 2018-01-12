@@ -15,7 +15,7 @@ location = "Pacific Grove, California, USA"
 selected = true
 
 # Links (optional).
-url_pdf = "slides/2018_contributed_StanCon"
+url_pdf = "slides/2018_contributed_StanCon.pdf"
 url_slides = "https://speakerdeck.com/sambrilleman/joint-longitudinal-and-time-to-event-models-via-stan"
 
 # Does the content use math formatting?
@@ -26,6 +26,6 @@ highlight = true
 
 +++
 
-This talk was based on an R Markdown notebook (i.e. a conference paper, with included computer code). The PDF of the notebook can be found [here](/pdf/conference/2018_StanCon_notebook), and the source files for the notebook can be found [here](https://github.com/sambrilleman/2018-StanCon-Notebook).
+This talk was based on an R Markdown notebook (i.e. a conference paper, with included computer code). The PDF of the notebook can be found [here](/pdf/conference/2018_StanCon_notebook.pdf), and the source files for the notebook can be found [here](https://github.com/sambrilleman/2018-StanCon-Notebook).
 
 {{< speakerdeck d80611a7cdf84410abfa5cf14ade8c80 >}}

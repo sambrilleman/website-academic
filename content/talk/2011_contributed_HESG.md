@@ -15,7 +15,7 @@ location = "Bangor, Wales"
 selected = true
 
 # Links (optional).
-url_pdf = "slides/2011_contributed_HESG"
+url_pdf = "slides/2011_contributed_HESG.pdf"
 
 # Does the content use math formatting?
 math = true
@@ -25,4 +25,4 @@ highlight = true
 
 +++
 
-This talk consisted of the presentation of a working paper, which can be found [here](/slides/2011_contributed_HESG). The final published version of the work can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051993/).
+This talk consisted of the presentation of a working paper, which can be found [here](/slides/2011_contributed_HESG.pdf). The final published version of the work can be found [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051993/).

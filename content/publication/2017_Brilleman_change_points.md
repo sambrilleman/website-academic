@@ -34,7 +34,7 @@ selected = true
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 
 # Links (optional).
-url_pdf = "pdf/published/2017_Brilleman_random_change_points"
+url_pdf = "pdf/published/2017_Brilleman_random_change_points.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

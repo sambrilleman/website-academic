@@ -14,7 +14,7 @@ location = "Bristol, UK"
 selected = true
 
 # Links (optional).
-url_pdf = "slides/2011_contributed_SAPC"
+url_pdf = "slides/2011_contributed_SAPC.pdf"
 url_slides = "https://speakerdeck.com/sambrilleman/multimorbidity-indices-improve-the-prediction-of-consultation-costs-in-primary-care-in-the-uk"
 
 # Does the content use math formatting?
