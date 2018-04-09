@@ -17,6 +17,8 @@ selected = true
 # Links (optional).
 url_pdf = "slides/2018_contributed_StanCon.pdf"
 url_slides = "https://speakerdeck.com/sambrilleman/joint-longitudinal-and-time-to-event-models-via-stan"
+url_code = "https://github.com/stan-dev/stancon_talks"
+url_video = "https://www.youtube.com/watch?v=8r-Ipt885FA&feature=youtu.be"
 
 # Does the content use math formatting?
 math = true

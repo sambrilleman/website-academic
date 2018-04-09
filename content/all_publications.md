@@ -1,16 +1,18 @@
 +++
-date = 2017-11-28
+date = 2018-04-09
 draft = false
 tags = []
 title = "Publications"
 math = true
 +++
 
+### 2018
+
+Karim Md N, Reid CM, Huq M, **Brilleman SL**, Cochrane A, Tran L, Billah B. [Predicting long-term survival after coronary artery bypass graft surgery](https://doi.org/10.1093/icvts/ivx330). *Interactive CardioVascular and Thoracic Surgery*. 2018;26(2):257-263.
+
 ### 2017
 
 Moreno-Betancur M, Carlin J, **Brilleman SL**, Tanamas S, Peeters A, Wolfe R. [Survival analysis with time-dependent covariates subject to missing data or measurement error: Multiple Imputation for Joint Modeling (MIJM)](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxx046/4461848). *Biostatistics*. 2017 (Epub ahead of print)
-
-Karim Md N, Reid CM, Huq M, **Brilleman SL**, Cochrane A, Tran L, Billah B. [Predicting long-term survival after coronary artery bypass graft surgery](https://doi.org/10.1093/icvts/ivx330). *Interactive CardioVascular and Thoracic Surgery*. 2017 (Epub ahead of print)
 
 **Brilleman SL**, Howe LD, Wolfe R, Tilling K. [Bayesian piecewise linear mixed models with a random change point: an application to BMI rebound in childhood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5625953/). *Epidemiology*. 2017;28(6):827-833.
 
