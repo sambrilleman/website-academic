@@ -26,4 +26,4 @@ highlight = true
 
 +++
 
-{{<script async class="speakerdeck-embed" data-id="9197268555d443c284d108ece1b19b3c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js">}}
+{{< speakerdeck data-id="9197268555d443c284d108ece1b19b3c" data-ratio="1.77777777777778" >}}
