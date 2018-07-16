@@ -26,4 +26,4 @@ highlight = true
 
 +++
 
-{{< speakerdeck data-id="9197268555d443c284d108ece1b19b3c" data-ratio="1.77777777777778" >}}
+{{< speakerdeck 9197268555d443c284d108ece1b19b3c >}}
