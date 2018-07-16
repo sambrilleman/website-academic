@@ -8,6 +8,8 @@ math = true
 
 ### 2018
 
+**Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach. *Epidemiology*. (to appear)
+
 Karim Md N, Reid CM, Huq M, **Brilleman SL**, Cochrane A, Tran L, Billah B. [Predicting long-term survival after coronary artery bypass graft surgery](https://doi.org/10.1093/icvts/ivx330). *Interactive CardioVascular and Thoracic Surgery*. 2018;26(2):257-263.
 
 ### 2017
