@@ -265,10 +265,11 @@ defaultContentLanguageInSubdir = false
   url = "#software"
   weight = 4
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
+# REMOVED -- posts
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 5
   
 [[menu.main]]
   name = "Contact"
