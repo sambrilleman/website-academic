@@ -235,7 +235,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "institution"
     icon_pack = "fa"
-    link = "https://www.monash.edu/medicine/sphpm/about/staff/students/brilleman"
+    link = "https://research.monash.edu/en/persons/sam-brilleman"
 		
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
