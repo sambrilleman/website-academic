@@ -6,17 +6,19 @@ title = "Publications"
 math = true
 +++
 
-### 2018
+### 2019
 
-**Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach. *Epidemiology*. To appear.
+**Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
+
+### 2018
 
 **Brilleman SL**, Crowther MJ, Moreno-Betancur M, Buros Novik J, Dunyak J, Al-Huniti N, Fox R, Hammerbacher J, Wolfe R. [Joint longitudinal and time-to-event models for multilevel hierarchical data](https://doi.org/10.1177/0962280218808821). *Statistical Methods in Medical Research*. 2018. Epub ahead of print.
 
 Karim Md N, Reid CM, Huq M, **Brilleman SL**, Cochrane A, Tran L, Billah B. [Predicting long-term survival after coronary artery bypass graft surgery](https://doi.org/10.1093/icvts/ivx330). *Interactive CardioVascular and Thoracic Surgery*. 2018;26(2):257-263.
 
-### 2017
-
 Moreno-Betancur M, Carlin J, **Brilleman SL**, Tanamas S, Peeters A, Wolfe R. [Survival analysis with time-dependent covariates subject to missing data or measurement error: Multiple Imputation for Joint Modeling (MIJM)](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxx046/4461848). *Biostatistics*. 2018;19(4):479-496.
+
+### 2017
 
 **Brilleman SL**, Howe LD, Wolfe R, Tilling K. [Bayesian piecewise linear mixed models with a random change point: an application to BMI rebound in childhood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5625953/). *Epidemiology*. 2017;28(6):827-833.
 

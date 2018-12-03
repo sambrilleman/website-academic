@@ -34,11 +34,10 @@ selected = false
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1097/EDE.0000000000000931"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = []
 
 # Does the content use math formatting?
 math = true
