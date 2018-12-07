@@ -33,7 +33,7 @@ Conclusions: The findings from this descriptive analysis suggest a paradoxical a
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
