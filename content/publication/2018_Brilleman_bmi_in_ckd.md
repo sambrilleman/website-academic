@@ -1,6 +1,6 @@
 +++
 title = "Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach"
-date = "2018-07-16"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brilleman SL", "Moreno-Betancur M", "Polkinghorne KR", "McDonald SP", "Crowther MJ", "Thomson J", "Wolfe R"]
@@ -21,7 +21,13 @@ publication = "*Epidemiology*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Disasters occur frequently in the United States (US) and their impact on acute morbidity, mortality and short-term increased health needs has been well described. However, barring mental health, little is known about the medium or longer-term health impacts of disasters. This study sought to determine if there is an association between community-level disaster exposure and individual-level changes in disability and/or the risk of death for older Americans. Using the US Federal Emergency Management Agency's database of disaster declarations, 602 disasters occurred between August 1998 and December 2010 and were characterized by their presence, intensity, duration and type. Repeated measurements of a disability score (based on activities of daily living) and dates of death were observed between January 2000 and November 2010 for 18,102 American individuals aged 50–89 years, who were participating in the national longitudinal Health and Retirement Study. Longitudinal (disability) and time-to-event (death) data were modelled simultaneously using a ‘joint modelling’ approach. There was no evidence of an association between community-level disaster exposure and individual-level changes in disability or the risk of death. Our results suggest that future research should focus on individual-level disaster exposures, moderate to severe disaster events, or higher-risk groups of individuals."
+abstract = "Background: The relationship between body mass index (BMI) and patient survival in end-stage kidney disease is not well understood and has been the subject of much debate over recent years.
+
+Methods: This study used a latent class joint modeling approach to identify latent groups that underpinned associations between patterns of change in BMI during hemodialysis and two competing events: transplant and death without transplant. We included all adult patients who initiated chronic hemodialysis treatment in Australia or New Zealand between 2005 and 2014.
+
+Results: There were 16,414 patients included in the analyses; 2,365 (14%) received a transplant, 5,639 (34%) died before transplant, and 8,410 (51%) were administratively censored. Our final model characterized patients based on five broad patterns of weight change (BMI trajectories): “late BMI decline” (about 2 years after commencing hemodialysis); “rapid BMI decline” (immediately after commencing hemodialysis); “stable and normal/overweight BMI”; “stable and morbidly obese BMI”; or “increasing BMI.” Mortality rates were highest among classes with declining BMI, and the timing of weight loss coincided with the timing of increases in mortality. Within the two stable BMI classes, death rates were slightly lower among the morbidly obese.
+
+Conclusions: The findings from this descriptive analysis suggest a paradoxical association between obesity and better survival. However, they also suggest that the shape of the BMI trajectory is important, with stable BMI trajectories being beneficial. Future research should be aimed at understanding the causes of weight changes during dialysis, to determine whether there could be strategies to improve patient survival."
 
 # Featured image thumbnail (optional)
 image_preview = ""
