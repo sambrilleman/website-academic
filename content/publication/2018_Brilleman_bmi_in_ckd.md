@@ -1,5 +1,5 @@
 +++
-title = "Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach"
+title = "Changes in body mass index and rates of death and transplant in hemodialysis patients: a latent class joint modeling approach"
 date = "2018-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -8,7 +8,7 @@ math = true
 
 ### 2019
 
-**Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Longitudinal changes in body mass index and the competing outcomes of death and transplant in patients undergoing hemodialysis: a latent class joint modelling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
+**Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Changes in body mass index and rates of death and transplant in hemodialysis patients: a latent class joint modeling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
 
 ### 2018
 
