@@ -38,7 +38,7 @@ url_pdf = "http://www.sciencedirect.com/science/article/pii/S0277953616306785?vi
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "NCBI", url = "http://ncbi.nlm.nih.gov/pubmed/27960126"}]
+url_custom = [{name = "NCBI", url = "https://ncbi.nlm.nih.gov/pubmed/27960126"}]
 
 # Does the content use math formatting?
 math = true

@@ -38,6 +38,7 @@ url_pdf = "https://doi.org/10.1097/EDE.0000000000000931"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "NCBI", url = "https://www.ncbi.nlm.nih.gov/pubmed/30499863"}]
 
 # Does the content use math formatting?
 math = true
