@@ -40,18 +40,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Sam Brilleman"
-  role = "Research Fellow in biostatistics"
+  role = "Optimisation Analyst"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Monash University", url = "" } ]
+  organizations = [ { name = "SEEK", url = "https://www.seek.com.au/about/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sam.brilleman@monash.edu"
-  address = "School of Public Health and Preventive Medicine, Monash University, 553 St Kilda Road, Melbourne, 3004, Australia"
+  email = "sbrilleman@seek.com.au"
+  address = "Level 6, 541 St Kilda Road, Melbourne, VIC 3004, Australia"
   office_hours = ""
-  phone = "+61 3 990 30802"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -205,12 +205,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:sam.brilleman@monash.edu"
+    link = "mailto:sbrilleman@seek.com.au"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/sambrilleman"
+    link = "https://github.com/sambrilleman"
 
   [[params.social]]
     icon = "google-scholar"
@@ -232,10 +232,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/sambrilleman/"
 		
-  [[params.social]]
-    icon = "institution"
-    icon_pack = "fa"
-    link = "https://research.monash.edu/en/persons/sam-brilleman"
+#  [[params.social]]
+#    icon = "institution"
+#    icon_pack = "fa"
+#    link = "https://research.monash.edu/en/persons/sam-brilleman"
 		
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

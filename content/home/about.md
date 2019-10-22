@@ -10,14 +10,13 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Joint modelling of longitudinal and survival data",
+	"Bayesian inference",
+	"Experimental design",
     "Longitudinal data analysis",
     "Survival analysis",
-		"Bayesian inference",
-		"Bayesian adaptive clinical trials",
-		"R",
-		"Stata",
-		"Stan"
+    "Joint modelling of longitudinal and survival data",
+	"Statistical programming (R, Python, Stata)",
+	"Probabilistic programming (Stan, PyMC3)"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -40,8 +39,12 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral Research Fellow in biostatistics at the [School of Public Health and Preventive Medicine](https://www.monash.edu/medicine/sphpm) at Monash University in Melbourne, Australia. I am also a member of the [Victorian Centre for Biostatistics (ViCBiostat)](http://www.vicbiostat.org.au/). 
+I currently work as an Optimisation Analyst at [SEEK](https://www.seek.com.au/about/). Our team provides an experimentation platform that is used to test the performance of new digital tools and services being developed at SEEK.
 
-I have a keen interest in survival analysis, joint longitudinal-survival models, models for longitudinal data from cohort studies, Bayesian inference, and in the design of Bayesian adaptive clinical trials. My PhD was entitled "Joint longitudinal and time-to-event models: development, implementation and applications in health research" and was supervised by [Prof Rory Wolfe](https://www.monash.edu/medicine/sphpm/about/staff/academic/wolfe) (primary), [Dr Margarita Moreno-Betancur](https://www.mcri.edu.au/users/margarita-moreno-betancur), and [Dr Michael Crowther](https://www.mjcrowther.co.uk/). I am a regular user of Stata, R and Stan, and have contributed software packages to the latter two. I have previously worked as both an academic and consultant biostatistician in a number of different roles; my full CV can be found [here](/files/brilleman_cv.pdf).
+Previously, I worked as an academic biostatistician in several Australian and UK universities; my full CV can be found [here](/files/brilleman_cv.pdf).
+
+I have interests in Bayesian inference, experimental design, survival analysis, and models for longitudinal data from cohort studies. I also enjoy statistical and probabilistic programming. I am a regular user of R and Stan, and have contributed to the development of software packages in both languages. 
+
+My PhD -- awarded by Monash University in 2018 -- was entitled "Joint longitudinal and time-to-event models: development, implementation and applications in health research" and was supervised by [Prof Rory Wolfe](https://www.monash.edu/medicine/sphpm/about/staff/academic/wolfe) (primary), [Dr Margarita Moreno-Betancur](https://www.mcri.edu.au/users/margarita-moreno-betancur), and [Dr Michael Crowther](https://www.mjcrowther.co.uk/).
 
 When not busy crunching data, I have a keen interest in [hiking and travelling](https://www.ultimategearlists.com) around some of the most epic spots on the globe.
