@@ -34,4 +34,4 @@ list_format = 3
 publication_type = "-1"
 +++
 
-A full list of my publications can be found [here](/all_publications).
+A full list of my peer-reviewed publications can be found [here](/all_publications) and my PhD thesis can be found [here](/files/brilleman_thesis.pdf).
