@@ -10,6 +10,8 @@ math = true
 
 **Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Changes in body mass index and rates of death and transplant in hemodialysis patients: a latent class joint modeling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
 
+Gardiner BJ, Chow JK, **Brilleman SL**, Peleg AY, Snydman, DR. [The impact of recurrent cytomegalovirus infection on long‐term survival in solid organ transplant recipients](https://doi.org/10.1111/tid.13189). *Transplant Infectious Disease*. 2019;21(6):e13189.
+
 ### 2018
 
 **Brilleman SL**, Crowther MJ, Moreno-Betancur M, Buros Novik J, Dunyak J, Al-Huniti N, Fox R, Hammerbacher J, Wolfe R. [Joint longitudinal and time-to-event models for multilevel hierarchical data](https://doi.org/10.1177/0962280218808821). *Statistical Methods in Medical Research*. 2018. Epub ahead of print.
