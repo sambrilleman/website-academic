@@ -10,7 +10,9 @@ math = true
 
 **Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Changes in body mass index and rates of death and transplant in hemodialysis patients: a latent class joint modeling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
 
-Gardiner BJ, Chow JK, **Brilleman SL**, Peleg AY, Snydman, DR. [The impact of recurrent cytomegalovirus infection on long‐term survival in solid organ transplant recipients](https://doi.org/10.1111/tid.13189). *Transplant Infectious Disease*. 2019;21(6):e13189.
+Gardiner BJ, Chow JK, **Brilleman SL**, Peleg AY, Snydman, DR. [The impact of recurrent cytomegalovirus infection on long-term survival in solid organ transplant recipients](https://doi.org/10.1111/tid.13189). *Transplant Infectious Disease*. 2019;21(6):e13189.
+
+Eldridge BJ, Galea MP, Kissane AL, Broder JC, **Brilleman SL**, Wolfe R, Williams G. [High-Level Mobility Assessment Tool (HiMAT) normative values for children](https://doi.org/10.1093/ptj/pzz168). *Physical Therapy*. 2019 (Epub ahead of print).
 
 ### 2018
 
