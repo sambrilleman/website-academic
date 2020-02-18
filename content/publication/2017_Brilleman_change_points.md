@@ -3,7 +3,7 @@ title = "Bayesian piecewise linear mixed models with a random change point: an a
 date = "2017-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Brilleman SL",  "Wolfe R",  "Moreno-Betancur M",  "Sales AE",  "Langa KM",  "Li Y",  "Daugherty Biddison EL",  "Rubinson L",  "Iwashyna TJ"]
+authors = ["Brilleman SL", "Howe LD", "Wolfe R", "Tilling K"]
 
 # Publication type.
 # Legend:
