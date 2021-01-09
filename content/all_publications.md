@@ -6,17 +6,23 @@ title = "Publications"
 math = true
 +++
 
+### 2020
+
+**Brilleman SL**, Elçi EM, Novik JB, Wolfe R. [Bayesian Survival Analysis Using the rstanarm R Package](https://arxiv.org/abs/2002.09633). 2020. *arXiv preprint*. arXiv:2002.09633. URL: https://arxiv.org/abs/2002.09633.
+
+Ragonnet R, Flegg JA, **Brilleman SL**, Tiemersma EW, Melsew YA, McBryde ES, Trauer JM. [Revisiting the Natural History of Pulmonary Tuberculosis: a Bayesian Estimation of Natural Recovery and Mortality Rates](https://doi.org/10.1093/cid/ciaa602). *Clinical Infectious Diseases*. 2020. Epub ahead of print. PMID: 32766718. doi: 10.1093/cid/ciaa602.
+
+Eldridge BJ, Galea MP, Kissane AL, Broder JC, **Brilleman SL**, Wolfe R, Williams G. [High-Level Mobility Assessment Tool Normative Values for Children](https://doi.org/10.1093/ptj/pzz168). *Physical Therapy*. 2020;100(2):324-331. PMID: 31742357. doi: 10.1093/ptj/pzz168.
+
 ### 2019
+
+**Brilleman SL**, Crowther MJ, Moreno-Betancur M, Buros Novik J, Dunyak J, Al-Huniti N, Fox R, Hammerbacher J, Wolfe R. [Joint longitudinal and time-to-event models for multilevel hierarchical data](https://doi.org/10.1177/0962280218808821). *Statistical Methods in Medical Research*. 2019;28(12):3502-3515. doi: 10.1177/0962280218808821.
 
 **Brilleman SL**, Moreno-Betancur M, Polkinghorne KR, McDonald SP, Crowther MJ, Thomson J, Wolfe R. [Changes in body mass index and rates of death and transplant in hemodialysis patients: a latent class joint modeling approach](https://doi.org/10.1097/EDE.0000000000000931). *Epidemiology*. 2019;30:38–47.
 
 Gardiner BJ, Chow JK, **Brilleman SL**, Peleg AY, Snydman, DR. [The impact of recurrent cytomegalovirus infection on long-term survival in solid organ transplant recipients](https://doi.org/10.1111/tid.13189). *Transplant Infectious Disease*. 2019;21(6):e13189.
 
-Eldridge BJ, Galea MP, Kissane AL, Broder JC, **Brilleman SL**, Wolfe R, Williams G. [High-Level Mobility Assessment Tool (HiMAT) normative values for children](https://doi.org/10.1093/ptj/pzz168). *Physical Therapy*. 2019 (Epub ahead of print).
-
 ### 2018
-
-**Brilleman SL**, Crowther MJ, Moreno-Betancur M, Buros Novik J, Dunyak J, Al-Huniti N, Fox R, Hammerbacher J, Wolfe R. [Joint longitudinal and time-to-event models for multilevel hierarchical data](https://doi.org/10.1177/0962280218808821). *Statistical Methods in Medical Research*. 2018. Epub ahead of print.
 
 Karim Md N, Reid CM, Huq M, **Brilleman SL**, Cochrane A, Tran L, Billah B. [Predicting long-term survival after coronary artery bypass graft surgery](https://doi.org/10.1093/icvts/ivx330). *Interactive CardioVascular and Thoracic Surgery*. 2018;26(2):257-263.
 
