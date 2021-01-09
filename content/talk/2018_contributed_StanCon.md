@@ -8,7 +8,7 @@ time_start = 2018-01-10
 abstract = ""
 
 event = "StanCon 2018"
-event_url = "http://mc-stan.org/events/stancon2018/"
+event_url = "https://github.com/stan-dev/stancon_talks"
 location = "Pacific Grove, California, USA"
 
 # Is this a selected talk? (true/false)
