@@ -39,7 +39,7 @@ weight = 5
 
 # Biography
 
-I currently work as a Senior Optimisation Analyst at [SEEK](https://www.seek.com.au/about/). Our team provides an experimentation platform that is used to test the performance of new AI tools and services being developed at SEEK.
+I currently work as a Principal Data Scientist at [SEEK](https://www.seek.com.au/about/). Our team provides an experimentation platform that is used to test the performance of new AI tools and services being developed at SEEK.
 
 Previously, I worked as an academic biostatistician in several Australian and UK universities; my full CV can be found [here](/files/brilleman_cv.pdf).
 
