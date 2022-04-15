@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Sam Brilleman"
-  role = "Senior Optimisation Analyst"
+  role = "Principal Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -49,7 +49,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sbrilleman@seek.com.au"
-  address = "Level 6, 541 St Kilda Road, Melbourne, VIC 3004, Australia"
+  address = "60 Cremorne St, Melbourne, VIC 3121, Australia"
   office_hours = ""
   phone = ""
   skype = ""
